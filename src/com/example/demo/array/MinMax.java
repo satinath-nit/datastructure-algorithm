@@ -21,8 +21,8 @@ public class MinMax {
 			}
 		}
 		
-		System.out.println(min);
-		System.out.println(max);
+		//System.out.println(min);
+		//System.out.println(max);
 		
 		
 		int asInt = Arrays.stream(arr).min().getAsInt();
